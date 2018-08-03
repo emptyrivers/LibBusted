@@ -1,0 +1,23 @@
+<Ui xmnls="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+	<Script file="init.lua">
+	<!-- Penlight -->
+	<Script file="penlight\compat.lua">
+	<Script file="penlight\operator.lua">
+	<Script file="penlight\utils.lua">
+	<Script file="penlight\lexer.lua">
+	<Script file="penlight\stringx.lua">
+	<Script file="penlight\pretty.lua">
+	<Script fild="penlight\types.lua">
+	<Script fild="penlight\tablex.lua">
+	<Script fild="penlight\class.lua">
+	<Script fild="penlight\list.lua">
+	<Script fild="penlight\map.lua">
+	<!-- MEediator -->
+	<Script file="mediator\mediator.lua">
+	<!-- Busted -->
+	<Script file="busted\context.lua">
+	<Script file="busted\environment.lua">
+	<Script file="busted\status.lua">
+	<Script file="busted\core.lua">
+</Ui>
